@@ -1,0 +1,371 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CalculoMedia",
+            "request": "launch",
+            "mainClass": "CalculoMedia",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch Comparacoes",
+            "request": "launch",
+            "mainClass": "Comparacoes",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch Entradas",
+            "request": "launch",
+            "mainClass": "Entradas",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumPrimitivos",
+            "request": "launch",
+            "mainClass": "NumPrimitivos",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio1",
+            "request": "launch",
+            "mainClass": "exercicio1",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio10",
+            "request": "launch",
+            "mainClass": "exercicio10",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio11",
+            "request": "launch",
+            "mainClass": "exercicio11",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio12",
+            "request": "launch",
+            "mainClass": "exercicio12",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio2",
+            "request": "launch",
+            "mainClass": "exercicio2",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio3",
+            "request": "launch",
+            "mainClass": "exercicio3",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio31",
+            "request": "launch",
+            "mainClass": "exercicio31",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio32",
+            "request": "launch",
+            "mainClass": "exercicio32",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio33",
+            "request": "launch",
+            "mainClass": "exercicio33",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio34",
+            "request": "launch",
+            "mainClass": "exercicio34",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio35",
+            "request": "launch",
+            "mainClass": "exercicio35",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio36",
+            "request": "launch",
+            "mainClass": "exercicio36",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio37",
+            "request": "launch",
+            "mainClass": "exercicio37",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio38",
+            "request": "launch",
+            "mainClass": "exercicio38",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio4",
+            "request": "launch",
+            "mainClass": "exercicio4",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio5",
+            "request": "launch",
+            "mainClass": "exercicio5",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio6",
+            "request": "launch",
+            "mainClass": "exercicio6",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio7",
+            "request": "launch",
+            "mainClass": "exercicio7",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio8",
+            "request": "launch",
+            "mainClass": "exercicio8",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicio9",
+            "request": "launch",
+            "mainClass": "exercicio9",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioDec1",
+            "request": "launch",
+            "mainClass": "exercicioDec1",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioDec2_1",
+            "request": "launch",
+            "mainClass": "exercicioDec2_1",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioDec3",
+            "request": "launch",
+            "mainClass": "exercicioDec3",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioDec4",
+            "request": "launch",
+            "mainClass": "exercicioDec4",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioDec5",
+            "request": "launch",
+            "mainClass": "exercicioDec5",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioDec6",
+            "request": "launch",
+            "mainClass": "exercicioDec6",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioDec7",
+            "request": "launch",
+            "mainClass": "exercicioDec7",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioDec8",
+            "request": "launch",
+            "mainClass": "exercicioDec8",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioExtraDecisao",
+            "request": "launch",
+            "mainClass": "exercicioExtraDecisao",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq1",
+            "request": "launch",
+            "mainClass": "exercicioSeq1",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq10",
+            "request": "launch",
+            "mainClass": "exercicioSeq10",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq11",
+            "request": "launch",
+            "mainClass": "exercicioSeq11",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq12",
+            "request": "launch",
+            "mainClass": "exercicioSeq12",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq14",
+            "request": "launch",
+            "mainClass": "exercicioSeq14",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq15",
+            "request": "launch",
+            "mainClass": "exercicioSeq15",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq16",
+            "request": "launch",
+            "mainClass": "exercicioSeq16",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq2",
+            "request": "launch",
+            "mainClass": "exercicioSeq2",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq3",
+            "request": "launch",
+            "mainClass": "exercicioSeq3",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq4",
+            "request": "launch",
+            "mainClass": "exercicioSeq4",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq5",
+            "request": "launch",
+            "mainClass": "exercicioSeq5",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq6",
+            "request": "launch",
+            "mainClass": "exercicioSeq6",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq7",
+            "request": "launch",
+            "mainClass": "exercicioSeq7",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq8",
+            "request": "launch",
+            "mainClass": "exercicioSeq8",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch exercicioSeq9",
+            "request": "launch",
+            "mainClass": "exercicioSeq9",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch parOuimpar1",
+            "request": "launch",
+            "mainClass": "parOuimpar1",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch portasLogicas",
+            "request": "launch",
+            "mainClass": "portasLogicas",
+            "projectName": "nataliacidral_b7b83483"
+        },
+        {
+            "type": "java",
+            "name": "Launch sorteador",
+            "request": "launch",
+            "mainClass": "sorteador",
+            "projectName": "nataliacidral_b7b83483"
+        }
+    ]
+}
